@@ -1,0 +1,12 @@
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.exe.config
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.exe
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.pdb
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.Form1.resources
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.exe
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.pdb
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.Form2.resources
+C:\Users\Maxim\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.Form3.resources

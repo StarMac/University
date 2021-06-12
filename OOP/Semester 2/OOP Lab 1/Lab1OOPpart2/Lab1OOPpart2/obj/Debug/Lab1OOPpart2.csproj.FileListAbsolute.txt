@@ -1,0 +1,10 @@
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\bin\Debug\Lab1OOPpart2.exe.config
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\bin\Debug\Lab1OOPpart2.exe
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\bin\Debug\Lab1OOPpart2.pdb
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.Form1.resources
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.exe
+C:\Users\Maxim\source\repos\Lab1OOPpart2\Lab1OOPpart2\obj\Debug\Lab1OOPpart2.pdb
