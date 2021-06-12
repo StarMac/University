@@ -1,0 +1,10 @@
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\bin\Debug\LabProject.exe
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\bin\Debug\LabProject.pdb
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.csprojAssemblyReference.cache
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.Form1.resources
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.csproj.GenerateResource.cache
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.csproj.CoreCompileInputs.cache
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.exe
+C:\Users\StarMac\Source\Repos\LabProject\LabProject\obj\Debug\LabProject.pdb
