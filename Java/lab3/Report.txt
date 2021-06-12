@@ -1,0 +1,6 @@
+Каталог деревини:
+Wood{id=0, name='Дуб', density=0.7}
+Wood{id=1, name='Сосна', density=0.9}
+Wood{id=2, name='Ялина', density=0.6}
+
+Вміст сховища продуктів:

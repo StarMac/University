@@ -1,0 +1,7 @@
+Mon Apr 19 00:33:07 EEST 2021 StarMac3 logged in
+Mon Apr 19 00:33:18 EEST 2021 added Wood{id=3, name='Береза', density=1.2}
+Mon Apr 19 00:33:32 EEST 2021 added Timber{wood=Ялина, weight= 1.1232}
+Mon Apr 19 00:33:54 EEST 2021 added Cylinder{wood =Ялина, length=1.3, diameter=1.2}
+Mon Apr 19 00:34:08 EEST 2021 added Waste{weight=0.025}
+Mon Apr 19 00:36:52 EEST 2021 StarMac4 logged in
+Mon Apr 19 00:37:08 EEST 2021 added Wood{id=3, name='Сосна', density=1.3}

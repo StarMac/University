@@ -1,0 +1,4 @@
+Sat May 08 19:50:14 EEST 2021 Старіков Максим logged in
+Sat May 08 19:50:23 EEST 2021 added Wood{id=3, name='Береза', density=1.2}
+Sat May 08 19:50:31 EEST 2021 added Timber{wood=Ялина, weight= 1.1232}
+Sat May 08 19:50:39 EEST 2021 added Waste{weight=0.025}
