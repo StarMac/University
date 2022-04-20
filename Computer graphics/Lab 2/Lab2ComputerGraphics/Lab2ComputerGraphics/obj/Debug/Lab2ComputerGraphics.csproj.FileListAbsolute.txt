@@ -1,0 +1,10 @@
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\bin\Debug\Lab2ComputerGraphics.exe.config
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\bin\Debug\Lab2ComputerGraphics.exe
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\bin\Debug\Lab2ComputerGraphics.pdb
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.exe
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.pdb
+C:\Users\Maxim\source\repos\Lab2ComputerGraphics\Lab2ComputerGraphics\obj\Debug\Lab2ComputerGraphics.Form1.resources
