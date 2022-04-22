@@ -1,0 +1,10 @@
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\bin\Debug\Lab3ComputerGraphics.exe.config
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\bin\Debug\Lab3ComputerGraphics.exe
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\bin\Debug\Lab3ComputerGraphics.pdb
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.exe
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.pdb
+C:\Users\Maxim\source\repos\Lab3ComputerGraphics\Lab3ComputerGraphics\obj\Debug\Lab3ComputerGraphics.Form1.resources
